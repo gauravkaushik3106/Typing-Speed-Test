@@ -46,5 +46,3 @@ Welcome to the **Typing Speed Test** – a simple, fast, and responsive typing t
 
 ---
 
-## 📁 Project Structure
-
